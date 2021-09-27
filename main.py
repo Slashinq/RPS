@@ -1,5 +1,5 @@
 import random
-a = "Rock"
+a = str(input(""))
 b = random.randint(0,2)
 # 0 is Rock
 # 1 is Paper
